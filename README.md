@@ -1,7 +1,7 @@
 <div align="center">
 
 # Velo.Stor 
-
+ 
 **An Arabic-first, right-to-left e-commerce storefront for bikes, e-bikes and scooters — built in vanilla HTML/CSS/JS and connected to a WhatsApp AI assistant.**
 
 [**🌐 Live Demo**](https://velo-stor.netlify.app/) · [**🤖 WhatsApp Bot**](https://github.com/El-Tousy/Meta-API-python-whatsapp-bot) · [**📸 Screenshots**](#screenshots)
